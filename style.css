@@ -1,0 +1,234 @@
+html{
+    scroll-behavior: smooth;
+    font-family: "Nunito", serif;
+}
+
+body {
+    margin: 0;
+    background-color: hsl(0, 65%, 39%);
+}
+
+header {
+    background-color: hsl(0, 58%, 44%);
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: center;
+    justify-content:space-between;
+    font-family: "Playfair Display", serif;
+}
+
+footer {
+    background-color: hsla(0, 0%, 0%, 0.767);
+    color: rgb(255, 255, 255);
+    margin: 0;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+footer p{
+}
+
+.logo-header {
+    width: 25%;
+}
+
+.menu ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.menu li a {
+    color: rgba(0, 0, 0, 0.753);
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+#introducao {
+    display: flex;
+    height: 300px;
+    align-items: center;
+}
+
+#introducao h2 { 
+    font-family: "Playfair Display", serif;
+}
+
+
+#introducao div {
+    width: 50%;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top: 50px;
+}
+
+#Trilogia {
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(117, 22, 22);
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    font-family: "Playfair Display", serif;
+}
+
+#Homens-Aranha {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#Homens-Aranha h2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+#Homens-Aranha h3{
+    font-family: "Playfair Display", serif;
+}
+
+.conteudo-Homens-Aranha {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+
+.Homens-Aranha {
+    width: 200px;
+    text-align: center;
+}
+
+.conteudo-Aranhaverso {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 150px;
+}
+
+.Aranhaverso {
+    width: 200px;
+    text-align: center;
+}
+
+#Aranhaverso {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#Aranhaverso h2{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+#Aranhaverso h3{
+    font-family: "Playfair Display", serif;
+}
+
+.conteudo-Aranhaverso2 {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 150px;
+}
+
+.Aranhaverso2 {
+    width: 200px;
+    text-align: center;
+}
+
+.Aranhaverso2 h3{
+    font-family: "Playfair Display", serif;
+}
+
+#Aranhaverso2 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+
+.conteudo-Vilões {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 150px;
+}
+
+.Vilões {
+    width: 200px;
+    text-align: center;
+}
+
+#Vilões {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#Vilões h2{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+#Vilões h3{
+    font-family: "Playfair Display", serif;
+}
+
+.conteudo-Vilões2 {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 150px;
+}
+
+.Vilões2 {
+    width: 200px;
+    text-align: center;
+}
+
+.Vilões2 h3{
+    font-family: "Playfair Display", serif;
+}
+
+#Vilões2 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.conteudo-Vilões3 {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 150px;
+}
+
+.Vilões3 {
+    width: 200px;
+    text-align: center;
+}
+
+.Vilões3 h3{
+    font-family: "Playfair Display", serif;
+}
+
+#Vilões3 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#Curiosidades h2{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+#Curiosidades h3{
+    font-family: "Playfair Display", serif;
+}
+
+
+.direitos-autorais{
+}
